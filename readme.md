@@ -1,4 +1,3 @@
-[![Build Status](https://app.travis-ci.com/Greg-Orca/Jira-Testing-Greg-Orca.svg?branch=main)](https://app.travis-ci.com/Greg-Orca/Jira-Testing-Greg-Orca)
 
 
 # Jira-Testing-Greg-Orca
