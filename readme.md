@@ -15,7 +15,7 @@ Selenium 4
 
 ## Environment Varibales
 USER_NAME=automation22/automation23/automation24  
-PASSWORD=
+PASSWORD= 
 BASE_URL=https://jira-auto.codecool.metastage.net/  
 BROWSER=CHROME/SAFARI  
 #### Notes:
